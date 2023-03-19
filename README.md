@@ -1,6 +1,6 @@
 # Integration Tests
 
-This project is 
+This project is an tutorial project created to perform and validate testing approaches.
 
 ## Tools Used
 
